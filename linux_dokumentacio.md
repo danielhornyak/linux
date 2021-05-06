@@ -1,5 +1,6 @@
 # linux
-A  programom három részprogramból áll egy karbantartó egy biztonsági mentő és egy visszaállító programból áll. 
+A program futtatásához szükséges csomag: dialog
+A programom három részprogramból áll egy karbantartó egy biztonsági mentő és egy visszaállító programból áll. 
 
 A karbantartó program tudja törölni a duplikált fájlokat úgy ,hogy megvizsgálja a z md5sum kódját  a fájloknak és amelyikből több van azok közül lehet kiválasztani egyet minden csoportból. Itt lehet még törölni a nem használt csomagokat e-hez bekéri a rendszergazda jelszavát.
 
