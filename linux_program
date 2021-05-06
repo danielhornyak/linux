@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 while :
 do
 #Ezzel a dialog boxal lehet kiválasztani a program részeket.
